@@ -1,0 +1,31 @@
+h1, h2{
+    font-family: Helvetica;
+    font-weight: bold;
+}
+
+#titleBar{
+    font-size: 100px;
+    color:khaki;
+    text-align: center;
+    background-image: url(./images/pattern.jpeg);
+
+}
+h2{
+    font-size: 32px;
+    color: white;
+}
+
+#brushes{
+    background-color: mediumspringgreen;
+}
+strong.blueText{
+    color:blue;
+}
+
+#frames{
+    background-color: lightcoral;
+
+}
+#paint{
+    background-color: skyblue;
+}
